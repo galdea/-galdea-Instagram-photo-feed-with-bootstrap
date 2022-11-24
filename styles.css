@@ -1,0 +1,12 @@
+div a i:hover {
+    color: rgb(21, 0, 255);
+}
+
+div a i:active {
+    color: rgb(21, 0, 255);
+}
+
+h5 span { 
+    font-size:12px;
+    float: right;
+}
